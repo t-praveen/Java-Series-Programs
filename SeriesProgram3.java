@@ -1,4 +1,4 @@
-//Odd Number Series //
+//Odd Number Series//
 
 package seriesprograms;
 import java.util.Scanner ;
