@@ -1,4 +1,4 @@
-//Arithmetic Series.//
+//Arithmetic Series//
 
 package seriesprograms;
 import java.util.Scanner ; 
