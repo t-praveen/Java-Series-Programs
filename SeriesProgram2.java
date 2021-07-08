@@ -1,4 +1,4 @@
-//Geometric Series //
+//Geometric Series//
 
 package seriesprograms;
 import java.util.Scanner ; 
