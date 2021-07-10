@@ -1,4 +1,3 @@
-
 //Arithmetic Series//
 
 package seriesprograms;
