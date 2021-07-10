@@ -1,3 +1,4 @@
+
 //Square Number Series //
 
 package seriesprograms;
