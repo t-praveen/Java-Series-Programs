@@ -1,3 +1,4 @@
+
 //Cube Number Series //
 
 package seriesprograms;
