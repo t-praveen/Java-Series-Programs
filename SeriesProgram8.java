@@ -1,3 +1,4 @@
+
 //Triangular Number Series //
 
 package seriesprograms;
